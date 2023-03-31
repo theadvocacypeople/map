@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>The Advocacy People Map August 2022 V27.kml</name>
-	<open>1</open>
+	<name>The Advocacy People Map V31.kml</name>
 	<Schema name="OGRGeoJSON" id="OGRGeoJSON">
 		<SimpleField type="int" name="objectid"></SimpleField>
 		<SimpleField type="string" name="lad17cd"></SimpleField>
@@ -1167,6 +1166,7 @@
 	</StyleMap>
 	<Folder>
 		<name>The Advocacy People Local Authorities</name>
+		<open>1</open>
 		<Placemark>
 			<name>Bournemouth, Christchurch &amp; Poole</name>
 			<description><![CDATA[<!--V20 October 2021 Code written by Richard Motley for The Advocacy People-->
